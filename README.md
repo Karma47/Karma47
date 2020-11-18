@@ -72,6 +72,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+2. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+3. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+4. 💪 Opened PR [#215](https://github.com/Hackplayers/hackthebox-writeups/pull/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+5. 🗣 Commented on [#14092](https://github.com/rapid7/metasploit-framework/issues/14092) in [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 <!--END_SECTION:activity-->
 
 </details>
