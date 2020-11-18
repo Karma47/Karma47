@@ -35,6 +35,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />
 
 <br />
+<br />
+<br />
 
 ### Training & Certifications:
 <img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />
