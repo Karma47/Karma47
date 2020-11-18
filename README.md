@@ -4,7 +4,7 @@
 [![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/blankdash/)](https://gitlab.com/blankdash/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/blankdash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKarma47&screen_name=blankdash_)
 
-## I'm a Hacker, Teacher, Gamer, and a Progressive Noob!!
+## I'm a Hacker / Researcher Teacher / Gamer & a Progressive Noob !!
 
 - 🔭 I just uploaded my Arch config files
 - 🌱 I’m currently learning cyber forensics 🤣
