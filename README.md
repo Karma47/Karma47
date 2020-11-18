@@ -22,24 +22,24 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/6.png" />][webdevplaylist]
-[<img align="left" alt="Metasploit" width="26px" src=""https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/7.png />][webdevplaylist]
-[<img align="left" alt="Burp Suite" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.png" />][cssplaylist]
-[<img align="left" alt="Wireshark" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/9.png" />][cssplaylist]
-[<img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.jpg" />][jsplaylist]
-[<img align="left" alt="Nessus" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/10.png" />][reactplaylist]
-[<img align="left" alt="System Internals" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/12.jpg" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/13.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/14.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />][webdevplaylist]
+[<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/6.png" />]
+[<img align="left" alt="Metasploit" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/7.png" />]
+[<img align="left" alt="Burp Suite" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.png" />]
+[<img align="left" alt="Wireshark" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/9.png" />]
+[<img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.jpg" />]
+[<img align="left" alt="Nessus" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/10.png" />]
+[<img align="left" alt="System Internals" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/11.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/12.jpg" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/13.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/14.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />]
 
 ### Training & Certifications:
- [<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][webdevplaylist]
-[<img align="left" alt="CHFI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][webdevplaylist]
-[<img align="left" alt="CSCU" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][webdevplaylist]
-[<img align="left" alt="CEI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][webdevplaylist]
-[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][webdevplaylist]
+ [<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />]
+[<img align="left" alt="CHFI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />]
+[<img align="left" alt="CSCU" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />]
+[<img align="left" alt="CEI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />]
+[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />]
 
 <br />
 <br />
