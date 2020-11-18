@@ -1,8 +1,8 @@
 ### Hi there, I'm Prasanna V Balaji - aka [blankdash][website] 👋
 
 [![Website](https://img.shields.io/website?label=blankdash.ninja&style=for-the-badge&url=http%3A%2F%2Fblankdash.ninja/)](http://blankdash.ninja/)
-[[![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/blankdash/)](https://gitlab.com/blankdash/)
-![Twitter Follow](https://img.shields.io/twitter/follow/blankdash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKarma47&screen_name=blankdash_)
+[![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/blankdash/)](https://gitlab.com/blankdash/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/blankdash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKarma47&screen_name=blankdash_)
 
 ## I'm a Hacker, Teacher, Gamer, and a Progressive Noob!!
 
