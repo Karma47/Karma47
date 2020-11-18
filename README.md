@@ -22,17 +22,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/6.png" />]
-[<img align="left" alt="Metasploit" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/7.png" />]
-[<img align="left" alt="Burp Suite" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.png" />]
-[<img align="left" alt="Wireshark" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/9.png" />]
-[<img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.jpg" />]
-[<img align="left" alt="Nessus" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/10.png" />]
-[<img align="left" alt="System Internals" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/11.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/12.jpg" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/13.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/14.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />]
+<img align="left" alt="Arch Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/6.png" />
+<img align="left" alt="Metasploit" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/7.png" />
+<img align="left" alt="Burp Suite" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.png" />
+<img align="left" alt="Wireshark" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/9.png" />
+<img align="left" alt="Kali Linux" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/8.jpg" />
+<img align="left" alt="Nessus" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/10.png" />
+<img align="left" alt="System Internals" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/11.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/12.jpg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/13.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/14.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />
 
 ### Training & Certifications:
  [<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />]
