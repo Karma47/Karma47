@@ -1,7 +1,8 @@
 ### Hi there, I'm Prasanna V Balaji - aka [blankdash][website] 👋
 
 [![Website](https://img.shields.io/website?label=blankdash.ninja&style=for-the-badge&url=http%3A%2F%2Fblankdash.ninja/)](http://blankdash.ninja/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/blankdash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKarma47&screen_name=blankdash_)
+[[![Gitlab](https://img.shields.io/website?label=GitLab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com/blankdash/)](https://gitlab.com/blankdash/)
+![Twitter Follow](https://img.shields.io/twitter/follow/blankdash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKarma47&screen_name=blankdash_)
 
 ## I'm a Hacker, Teacher, Gamer, and a Progressive Noob!!
 
@@ -114,3 +115,4 @@
 [CSCU]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=/1l4W2cWewqDiKRr2SIBXOJrj/OR61UR6j7r97H4iEQ=
 [CEI]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZaHqVPs7HNncXxwRS25I1r998S1Vyc5Qcrw4dYPWzRU=
 [QUALYS]: https://www.qualys.com/
+[Gitlab]: https://gitlab.com/blankdash/
