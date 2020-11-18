@@ -40,11 +40,11 @@
 
 ### Training & Certifications:
 
-[<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CHFI]
+[<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
 [<img align="left" alt="CHFI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
-<img align="left" alt="CSCU" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />
-<img align="left" alt="CEI" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />
-<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />
+[<img align="left" alt="CSCU" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][CSCU]
+[<img align="left" alt="CEI" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][CEI]
+[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][QUALYS]
 
 <br />
 <br />
@@ -99,3 +99,7 @@
 [youtube]: https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg
 [linkedin]: https://linkedin.com/in/prasannavbalaji
 [CHFI]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=HUIuz777Vo7bn+YectPcwfSuGjJv5l9Byz8vzOWTzj0=
+[CEH]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=H+uvGg3f1u+SxDBpucsWAvK0wMK/QARWNuCC6BjJ/Gw=
+[CSCU]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=/1l4W2cWewqDiKRr2SIBXOJrj/OR61UR6j7r97H4iEQ=
+[CEI]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZaHqVPs7HNncXxwRS25I1r998S1Vyc5Qcrw4dYPWzRU=
+[QUALYS]: https://www.qualys.com/
