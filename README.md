@@ -53,6 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vulnhub - kioptrix 4](https://www.youtube.com/watch?v=LNsNu7bksE0)
+- [Vulnhub - Kioptrix 3](https://www.youtube.com/watch?v=ImiwQj6UGfM)
+- [Vulnhub - kioptrix 2](https://www.youtube.com/watch?v=Q9S2-l4l8XA)
+- [Vulnhub - kioptrix1](https://www.youtube.com/watch?v=0btoEoHwIwE)
+- [Windows Terminal Pen-Testing](https://www.youtube.com/watch?v=8sowYFeD5P0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg)
@@ -72,6 +77,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+2. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+3. 🗣 Commented on [#215](https://github.com/Hackplayers/hackthebox-writeups/issues/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+4. 💪 Opened PR [#215](https://github.com/Hackplayers/hackthebox-writeups/pull/215) in [Hackplayers/hackthebox-writeups](https://github.com/Hackplayers/hackthebox-writeups)
+5. 🗣 Commented on [#14092](https://github.com/rapid7/metasploit-framework/issues/14092) in [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 <!--END_SECTION:activity-->
 
 </details>
