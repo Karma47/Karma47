@@ -11,14 +11,18 @@
 - 🥅 2020 Goals: Progress towards mastering forensic analysis
 - ⚡ Fun fact: I love CTF's and play DOTA regularly
 
-### Connect with me:
 
-[<img align="left" alt="blankdash.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="blankdash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="@blankdash_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prasannavbalaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Training & Certifications:
+
+[<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
+[<img align="left" alt="CHFI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
+[<img align="left" alt="CSCU" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][CSCU]
+[<img align="left" alt="CEI" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][CEI]
+[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][QUALYS]
 
 <br />
+<br />
+
 
 ### Languages and Tools:
 
@@ -38,13 +42,12 @@
 <br />
 <br />
 
-### Training & Certifications:
+### Connect with me:
 
-[<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
-[<img align="left" alt="CHFI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
-[<img align="left" alt="CSCU" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][CSCU]
-[<img align="left" alt="CEI" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][CEI]
-[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][QUALYS]
+[<img align="left" alt="blankdash.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blankdash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@blankdash_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="prasannavbalaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -64,6 +67,11 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg)
 
 ---
+
+### 📕 Recent Arch Linux Setup
+<img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/desktop_full.png" />
+<img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/qtile_left.png" />
+<img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/qtile_right.png" />
 
 ### 📕 Latest Blog Posts
 
