@@ -80,6 +80,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ["I see", Said a blind man](https://www.linkedin.com/pulse/i-see-said-blind-man-lakshmi-priya/?trackingId=2QT6vtFUQHOXcb6xMBjXzg%3D%3D)
+- [Surfing the void](http://blankdash.ninja/2019/09/25/surfing-the-v01d/)
+- [Arch Black (0X0)](http://blankdash.ninja/2019/12/13/arch-black-0x0/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blankdash.ninja)
