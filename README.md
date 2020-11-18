@@ -15,11 +15,11 @@
 
 ### Training & Certifications:
 
-[<img align="left" alt="CEH Master" width="50px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
-[<img align="left" alt="CHFI" width="60px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
-[<img align="left" alt="CSCU" width="70px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][CSCU]
-[<img align="left" alt="CEI" width="60px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][CEI]
-[<img align="left" alt="Qualys" width="50px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][QUALYS]
+[<img align="left" alt="CEH Master" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CEH]
+[<img align="left" alt="CHFI" width="50px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
+[<img align="left" alt="CSCU" width="60px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />][CSCU]
+[<img align="left" alt="CEI" width="50px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />][CEI]
+[<img align="left" alt="Qualys" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />][QUALYS]
 
 <br />
 <br />
