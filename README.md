@@ -39,7 +39,8 @@
 <br />
 
 ### Training & Certifications:
-<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />
+
+[<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />][CHFI]
 [<img align="left" alt="CHFI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />][CHFI]
 <img align="left" alt="CSCU" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />
 <img align="left" alt="CEI" width="40px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />
@@ -93,8 +94,8 @@
 
 </details>
 
-[website]: https://blankdash.ninja/
+[website]: http://blankdash.ninja/
 [twitter]: https://twitter.com/blankdash_
 [youtube]: https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg
 [linkedin]: https://linkedin.com/in/prasannavbalaji
-[CHFI]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=HUIuz777Vo7bn+YectPcwfSuGjJv5l9Byz8vzOWTzj0=
+[CHFI]: "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=HUIuz777Vo7bn+YectPcwfSuGjJv5l9Byz8vzOWTzj0="
