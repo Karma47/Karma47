@@ -94,8 +94,8 @@
 
 </details>
 
-[website]: http://blankdash.ninja/
+[website]: https://blankdash.ninja/
 [twitter]: https://twitter.com/blankdash_
 [youtube]: https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg
 [linkedin]: https://linkedin.com/in/prasannavbalaji
-[CHFI]: "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=HUIuz777Vo7bn+YectPcwfSuGjJv5l9Byz8vzOWTzj0="
+[CHFI]: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=HUIuz777Vo7bn+YectPcwfSuGjJv5l9Byz8vzOWTzj0=
