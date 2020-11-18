@@ -70,7 +70,6 @@
 
 ### 📕 Recent Arch Linux Setup
 <img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/desktop_full.png" />
-<img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/qtile_left.png" /> <img align="left" alt="Arch Linux" src="https://gitlab.com/blankdash/arch-dot-files/-/raw/master/qtile/qtile/screenshots/qtile_right.png" />
 
 <br />
 <br />
