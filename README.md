@@ -53,6 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vulnhub - kioptrix 4](https://www.youtube.com/watch?v=LNsNu7bksE0)
+- [Vulnhub - Kioptrix 3](https://www.youtube.com/watch?v=ImiwQj6UGfM)
+- [Vulnhub - kioptrix 2](https://www.youtube.com/watch?v=Q9S2-l4l8XA)
+- [Vulnhub - kioptrix1](https://www.youtube.com/watch?v=0btoEoHwIwE)
+- [Windows Terminal Pen-Testing](https://www.youtube.com/watch?v=8sowYFeD5P0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCi60vin3uAsSPP3UsNnXHqg)
