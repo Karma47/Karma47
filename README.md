@@ -34,12 +34,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/14.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/15.png" />
 
+<br />
+
 ### Training & Certifications:
- [<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />]
-[<img align="left" alt="CHFI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />]
-[<img align="left" alt="CSCU" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />]
-[<img align="left" alt="CEI" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />]
-[<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />]
+<img align="left" alt="CEH Master" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/1.jpg" />
+<img align="left" alt="CHFI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/3.jpg" />
+<img align="left" alt="CSCU" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/4.jpg" />
+<img align="left" alt="CEI" width="36px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/2.jpg" />
+<img align="left" alt="Qualys" width="26px" src="https://raw.githubusercontent.com/Karma47/Karma47/main/workflows/icons/5.png" />
 
 <br />
 <br />
